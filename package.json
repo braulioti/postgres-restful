@@ -1,0 +1,22 @@
+{
+  "name": "postgresql-restify",
+  "version": "1.0.0",
+  "description": "PostgreSQL REST Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "6.3.4",
+    "restify-errors": "5.0.0",
+    "pg-restify": "0.5.0"
+  },
+  "devDependencies": {
+    "@types/restify": "5.0.6",
+    "@types/restify-errors": "4.3.2",
+    "@types/pg": "7.4.10"
+  }
+}
